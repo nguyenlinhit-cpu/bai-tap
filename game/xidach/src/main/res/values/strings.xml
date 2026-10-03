@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xidach_name">Xì Dách</string>
+    <string name="xidach_desc">Blackjack luật Việt Nam — Xì bàng, Xì dách, Ngũ linh, đấu trí nhà cái</string>
+
+    <!-- Roles & Modes -->
+    <string name="xidach_role_dealer">Nhà cái</string>
+    <string name="xidach_role_player">Nhà con</string>
+    <string name="xidach_mode_player_dealer">Bạn làm cái</string>
+    <string name="xidach_mode_bot_dealer">Máy làm cái</string>
+    <string name="xidach_mode_rotating">Luân phiên làm cái</string>
+
+    <!-- Actions -->
+    <string name="xidach_action_hit">Rút</string>
+    <string name="xidach_action_stand">Dằn</string>
+    <string name="xidach_action_inspect">Xét</string>
+    <string name="xidach_action_inspect_all">Xét tất cả</string>
+    <string name="xidach_action_squeeze">Nặn bài</string>
+    <string name="xidach_action_reveal">Mở bài</string>
+
+    <!-- Hand types & Statuses -->
+    <string name="xidach_type_xibang">Xì bàng (2 Át)</string>
+    <string name="xidach_type_xidach">Xì dách (Át + Tây/10)</string>
+    <string name="xidach_type_ngulinh">Ngũ linh (5 lá ≤ 21)</string>
+    <string name="xidach_type_points">%1$d nút</string>
+    <string name="xidach_status_non">Non (chưa đủ tuổi)</string>
+    <string name="xidach_status_dutuoi">Đủ tuổi</string>
+    <string name="xidach_status_quac">Quắc (> 21)</string>
+    <string name="xidach_status_waiting">Đang chờ</string>
+    <string name="xidach_status_inspected">Đã xét</string>
+
+    <!-- House Rules -->
+    <string name="xidach_hr_both_bust_title">Cả hai cùng quắc</string>
+    <string name="xidach_hr_both_bust_tie">Hòa tiền (mặc định)</string>
+    <string name="xidach_hr_both_bust_player_loses">Con quắc luôn thua</string>
+    <string name="xidach_hr_winner_dealer_title">Chuyển vai trò nhà cái</string>
+    <string name="xidach_hr_winner_dealer_desc">Người chơi có Xì bàng hoặc Xì dách sẽ làm cái ván tiếp theo</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lieng_name">Liêng</string>
+    <string name="lieng_desc">Đấu trí 3 lá bài cào — Sáp, Liêng, Ảnh, Điểm, tố theo vòng kịch tính</string>
+
+    <!-- Actions -->
+    <string name="lieng_action_fold">Úp bài</string>
+    <string name="lieng_action_call">Theo</string>
+    <string name="lieng_action_raise">Tố</string>
+    <string name="lieng_action_all_in">Tất tay</string>
+    <string name="lieng_action_squeeze">Nặn bài</string>
+    <string name="lieng_action_check">Xem</string>
+
+    <!-- Hand types -->
+    <string name="lieng_type_sap">Sáp %1$s</string>
+    <string name="lieng_type_lieng">Liêng %1$s</string>
+    <string name="lieng_type_anh">Ảnh (3 Tây)</string>
+    <string name="lieng_type_points">%1$d điểm</string>
+
+    <!-- House Rules -->
+    <string name="lieng_hr_suit_order_title">Thứ tự chất: Cơ trên Rô</string>
+    <string name="lieng_hr_suit_order_desc">Nếu bật: Cơ > Rô > Chuồn > Bích. Mặc định (tắt): Rô > Cơ > Chuồn > Bích</string>
+    <string name="lieng_hr_rank_before_suit_title">So số trước so chất</string>
+    <string name="lieng_hr_rank_before_suit_desc">Nếu bật: So số lá lớn nhất trước (A &gt; K &gt; … &gt; 2), cùng số mới so chất</string>
+    <string name="lieng_hr_tie_push_title">Cùng Liêng hòa chia pot</string>
+    <string name="lieng_hr_tie_push_desc">Nếu bật: Cùng dây Liêng chia đều pot, không so chất</string>
+</resources>

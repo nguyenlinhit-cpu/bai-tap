@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="phom_app_name">Phỏm (Tá Lả)</string>
+    <string name="phom_deck_center">Nọc (%1$d)</string>
+    <string name="phom_action_draw">Bốc bài</string>
+    <string name="phom_action_eat">Ăn bài</string>
+    <string name="phom_action_discard">Đánh</string>
+    <string name="phom_action_meld">Hạ phỏm</string>
+    <string name="phom_action_layoff">Gửi bài</string>
+    <string name="phom_action_u">Ù!</string>
+    <string name="phom_action_u_khan">Ù khan!</string>
+    <string name="phom_action_pass_layoff">Xong / Không gửi</string>
+
+    <string name="phom_status_mom">Móm</string>
+    <string name="phom_status_u">Ù</string>
+    <string name="phom_status_u_khan">Ù khan</string>
+    <string name="phom_status_rank_1">Nhất (%1$d điểm)</string>
+    <string name="phom_status_rank_2">Nhì (%1$d điểm)</string>
+    <string name="phom_status_rank_3">Ba (%1$d điểm)</string>
+    <string name="phom_status_rank_4">Bét (%1$d điểm)</string>
+
+    <!-- Dialogs & Controls -->
+    <string name="phom_close">Đóng</string>
+    <string name="phom_back">Quay lại</string>
+    <string name="phom_help">Luật chơi</string>
+    <string name="phom_settings">Cài đặt</string>
+    <string name="phom_house_rules">Luật nhà</string>
+    <string name="phom_tutorial">Ván tập</string>
+    <string name="phom_replay">Ván mới</string>
+    <string name="phom_review">Xem lại</string>
+    <string name="phom_exit_confirm_title">Rời bàn chơi?</string>
+    <string name="phom_exit_confirm_msg">Nếu rời bàn giữa chừng, bạn sẽ bị xử thua Bét và trừ tiền theo quy định.</string>
+    <string name="phom_exit_confirm_ok">Rời bàn</string>
+    <string name="phom_exit_confirm_cancel">Ở lại</string>
+
+    <!-- Overlay & Banners -->
+    <string name="phom_banner_u">Ù RỒI!</string>
+    <string name="phom_banner_u_khan">Ù KHAN!</string>
+    <string name="phom_banner_u_den">Ù ĐỀN LÀNG!</string>
+    <string name="phom_banner_eat_chot">ĂN CHỐT!</string>
+    <string name="phom_banner_eat">ĂN BÀI!</string>
+    <string name="phom_round_info">Vòng %1$d/4</string>
+
+    <!-- Results Panel -->
+    <string name="phom_result_title_win">Chiến Thắng!</string>
+    <string name="phom_result_title_lose">Kết Thúc Ván</string>
+    <string name="phom_result_points">%1$d điểm</string>
+    <string name="phom_result_melds">Phỏm: %1$s</string>
+    <string name="phom_result_trash">Rác: %1$s</string>
+
+    <!-- House Rules Screen -->
+    <string name="phom_hr_title">Luật Nhà – Phỏm</string>
+    <string name="phom_hr_subtitle">Tùy chỉnh biến thể theo thói quen chơi của bạn</string>
+    <string name="phom_hr_u_khan_title">Ù khan</string>
+    <string name="phom_hr_u_khan_desc">Khi chia bài không có phỏm và không có bất kỳ cạ nào thì được tính Ù ngay</string>
+    <string name="phom_hr_eat_rate_title">Tiền ăn tăng dần</string>
+    <string name="phom_hr_eat_rate_desc">Bị ăn lá thứ nhất trả 1B, lá thứ hai 2B, lá thứ ba 3B (thay vì cố định 1B)</string>
+    <string name="phom_hr_eat_chot_den_title">Ăn chốt đền</string>
+    <string name="phom_hr_eat_chot_den_desc">Người ăn chốt sau cùng phải đền thay cả làng nếu có người Ù trong vòng cuối</string>
+    <string name="phom_hr_mom_layoff_title">Móm được gửi bài</string>
+    <string name="phom_hr_mom_layoff_desc">Người móm (không có phỏm) vẫn được gửi bài vào phỏm của người khác</string>
+    <string name="phom_hr_save">Lưu cấu hình</string>
+    <string name="phom_hr_reset">Khôi phục mặc định</string>
+
+    <!-- Rules Screen -->
+    <string name="phom_rules_title">Luật Chơi Phỏm (Tá Lả)</string>
+    <string name="phom_rules_current">Cược bàn hiện tại: %1$s</string>
+    <string name="phom_rules_intro_h">1. Giới thiệu</string>
+    <string name="phom_rules_intro">Phỏm (còn gọi là Tá Lả) là trò chơi bài dân gian phổ biến bậc nhất miền Bắc. Người chơi tìm cách tạo các bộ bài hợp lệ (Phỏm) bằng cách ăn bài của đối thủ hoặc bốc từ Nọc, đồng thời loại bỏ các lá bài rác để có điểm số thấp nhất khi hạ bài.</string>
+    <string name="phom_rules_deck_h">2. Bộ bài &amp; Chia bài</string>
+    <string name="phom_rules_deck">Sử dụng bộ bài Tây 52 lá tiêu chuẩn. Người đi đầu được chia 10 lá, các người chơi còn lại mỗi người 9 lá. Các lá còn lại úp ở giữa bàn gọi là Nọc (2 người: 33 lá; 3 người: 24 lá; 4 người: 15 lá).</string>
+    <string name="phom_rules_ranks_h">3. Điểm số các lá bài</string>
+    <string name="phom_rules_ranks">Lá A (Át) tính 1 điểm (nhỏ nhất). Các lá từ 2 đến 10 tính điểm bằng số trên lá. Lá J = 11 điểm, Q = 12 điểm, K = 13 điểm (lớn nhất). A là lá nhỏ nhất, không nối vòng qua K (sảnh Q-K-A không hợp lệ).</string>
+    <string name="phom_rules_melds_h">4. Phỏm &amp; Cạ</string>
+    <string name="phom_rules_melds_body">Phỏm là tập hợp từ 3 lá bài trở lên thuộc một trong hai loại:\n• Phỏm ngang: 3 hoặc 4 lá cùng giá trị số (ví dụ: 7♠ 7♥ 7♦).\n• Phỏm dọc: 3 lá trở lên liên tiếp CÙNG CHẤT (ví dụ: A♥ 2♥ 3♥, 8♦ 9♦ 10♦ J♦).\nCạ là 2 lá bài có khả năng tạo thành phỏm khi ghép thêm 1 lá thích hợp.</string>
+    <string name="phom_rules_flow_h">5. Diễn biến ván chơi</string>
+    <string name="phom_rules_flow_body">1. Người đi đầu đánh 1 lá rác đầu tiên.\n2. Người kế tiếp có thể Ăn lá đó nếu tạo được phỏm với bài trên tay, hoặc Bốc 1 lá từ Nọc; sau đó Đánh ra 1 lá rác.\n3. Mỗi người đánh đủ 4 lá rác qua 4 vòng. Ở vòng thứ 4 (vòng cuối): sau khi Ăn/Bốc, người chơi phải Hạ phỏm, Gửi bài vào phỏm người hạ trước (nếu có), rồi đánh cây rác thứ 4.</string>
+    <string name="phom_rules_eat_h">6. Quy tắc Ăn bài</string>
+    <string name="phom_rules_eat_body">Chỉ được ăn lá bài vừa đánh của người ngồi liền trước mình.\n• Ràng buộc: Mỗi phỏm chỉ được chứa tối đa 1 lá ăn. Không được đánh lá bài đã ăn, và không được đánh lá làm vỡ phỏm chứa lá ăn (lá bị trói).\n• Ăn chốt: Ăn lá bài ở vòng thứ 4 của người liền trước gọi là Ăn chốt (phạt nặng 4B).</string>
+    <string name="phom_rules_u_h">7. Ù &amp; Ù Đền</string>
+    <string name="phom_rules_u_body">Ù xảy ra khi toàn bộ bài trên tay đều ghép thành phỏm (không còn lá rác, hoặc chỉ thừa đúng 1 lá để đánh đi). Người Ù thắng ngay lập tức và ăn mỗi người 5B.\nĐền làng (người đền trả thay cho cả làng):\n• Để 1 đối thủ ăn liên tiếp 3 lá và người đó Ù.\n• Đánh cây chốt để đối thủ liền sau ăn và người đó Ù.\n• Ăn chốt đền: người ăn chốt sau cùng đền nếu có người Ù trong vòng cuối.</string>
+    <string name="phom_rules_score_h">8. Tính điểm &amp; Thứ hạng</string>
+    <string name="phom_rules_score_body">Khi không có ai Ù, người chơi so tổng điểm của các lá rác còn lại trên tay:\n• Người ít điểm nhất về Nhất, kế tiếp là Nhì, Ba, Bét.\n• Bằng điểm: Người hạ phỏm trước được xếp trên.\n• Móm (không có phỏm nào để hạ): xếp sau cùng tất cả.\nTiền thanh toán mặc định: Nhì trả 1B, Ba trả 2B, Bét trả 3B, Móm trả 4B cho người về Nhất.</string>
+
+    <!-- Tutorial Steps -->
+    <string name="phom_tut_title">Ván tập Phỏm</string>
+    <string name="phom_tut_step1">Bước 1: Đối thủ đánh 7 rô. Bài bạn có 7 bích và 7 cơ (cạ ngang). Hãy bấm \"Ăn bài\" để tạo phỏm 7-7-7!</string>
+    <string name="phom_tut_step2">Bước 2: Sau khi ăn, hãy chọn 1 lá rác thừa không có cạ (chọn lá K bích) và bấm \"Đánh\".</string>
+    <string name="phom_tut_step3">Bước 3: Ở lượt tiếp theo, đối thủ đánh bài không ăn được. Hãy bấm \"Bốc bài\" từ Nọc.</string>
+    <string name="phom_tut_step4">Bước 4: Vòng cuối: Bạn hạ phỏm đã có, bấm gửi lá 10 cơ vào phỏm 7-8-9 cơ của đối thủ đã hạ, rồi đánh cây rác cuối để về Nhất!</string>
+    <string name="phom_tut_finish_title">Hoàn thành ván tập!</string>
+    <string name="phom_tut_finish_msg">Bạn đã nắm vững các thao tác cốt lõi: Ăn bài tạo phỏm, Bốc nọc, Hạ phỏm, Gửi bài và Tính điểm. Chúc bạn chơi vui vẻ!</string>
+</resources>

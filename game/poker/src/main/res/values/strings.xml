@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="poker_app_name">Poker Texas Hold\'em</string>
+    <string name="poker_fold">Úp bài</string>
+    <string name="poker_check">Xem bài</string>
+    <string name="poker_call">Theo %s</string>
+    <string name="poker_bet">Cược %s</string>
+    <string name="poker_raise">Tố %s</string>
+    <string name="poker_all_in">Tất tay</string>
+
+    <!-- Hand ranks -->
+    <string name="poker_hand_royal_flush">Thùng phá sảnh lớn</string>
+    <string name="poker_hand_straight_flush">Thùng phá sảnh</string>
+    <string name="poker_hand_four_of_a_kind">Tứ quý</string>
+    <string name="poker_hand_full_house">Cù lũ</string>
+    <string name="poker_hand_flush">Thùng</string>
+    <string name="poker_hand_straight">Sảnh</string>
+    <string name="poker_hand_three_of_a_kind">Sám cô</string>
+    <string name="poker_hand_two_pair">Thú (2 đôi)</string>
+    <string name="poker_hand_one_pair">Một đôi</string>
+    <string name="poker_hand_high_card">Mậu thầu</string>
+
+    <!-- Table info -->
+    <string name="poker_pot">Tổng Pot: %s xu</string>
+    <string name="poker_main_pot">Pot chính: %s</string>
+    <string name="poker_side_pot">Side pot %d: %s</string>
+    <string name="poker_dealer_button">D</string>
+    <string name="poker_sb">SB</string>
+    <string name="poker_bb">BB</string>
+    <string name="poker_preflop">Preflop</string>
+    <string name="poker_flop">Flop</string>
+    <string name="poker_turn">Turn</string>
+    <string name="poker_river">River</string>
+    <string name="poker_showdown">Showdown</string>
+    <string name="poker_practice_mode">Chế độ luyện tập</string>
+    <string name="poker_win_rate">Tỉ lệ thắng: %d%%</string>
+    <string name="poker_rebuy">Nạp lại stack (Rebuy)</string>
+</resources>

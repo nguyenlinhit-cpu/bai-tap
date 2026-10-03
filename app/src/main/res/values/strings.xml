@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bài Việt</string>
+    <string name="app_subtitle">Tổng Hợp Game Bài</string>
+
+    <!-- Thông báo chơi giải trí -->
+    <string name="disclaimer">Trò chơi chỉ mang tính giải trí.\nKhông sử dụng tiền thật.\nKhông đổi thưởng, không mua bán xu.</string>
+
+    <!-- Sảnh -->
+    <string name="daily_gift">Quà hằng ngày</string>
+    <string name="settings">Cài đặt</string>
+
+    <!-- 8 game -->
+    <string name="game_tienlen">Tiến Lên Miền Nam</string>
+    <string name="game_samloc">Sâm Lốc</string>
+    <string name="game_phom">Phỏm (Tá Lả)</string>
+    <string name="game_maubinh">Mậu Binh</string>
+    <string name="game_xidach">Xì Dách</string>
+    <string name="game_poker">Poker Texas</string>
+    <string name="game_lieng">Liêng</string>
+    <string name="game_bacay">Ba Cây</string>
+
+    <!-- Vùng miền -->
+    <string name="region_south">Miền Nam</string>
+    <string name="region_north">Miền Bắc</string>
+    <string name="region_international">Quốc tế</string>
+
+    <!-- Chọn bàn -->
+    <string name="table_setup">Chọn bàn</string>
+    <string name="player_count">Số người chơi</string>
+    <string name="difficulty">Độ khó</string>
+    <string name="bet_level">Mức cược</string>
+    <string name="house_rules">Luật nhà</string>
+    <string name="game_rules">Luật chơi</string>
+    <string name="tutorial">Hướng dẫn</string>
+    <string name="enter_table">Vào bàn</string>
+    <string name="not_enough_coins">Không đủ xu</string>
+
+    <!-- Độ khó -->
+    <string name="difficulty_easy">Dễ</string>
+    <string name="difficulty_normal">Thường</string>
+    <string name="difficulty_hard">Khó</string>
+
+    <!-- Số người -->
+    <string name="players_2">2 người</string>
+    <string name="players_3">3 người</string>
+    <string name="players_4">4 người</string>
+
+    <!-- Bàn chơi -->
+    <string name="confirm">Xác nhận</string>
+
+    <!-- Kết quả -->
+
+    <!-- Xu -->
+    <string name="coins">xu</string>
+    <string name="welcome_bonus">Chào mừng! Bạn nhận được %1$s xu.</string>
+
+    <!-- Cài đặt -->
+    <string name="settings_music">Nhạc nền</string>
+    <string name="settings_sfx">Hiệu ứng âm thanh</string>
+    <string name="settings_vibration">Rung</string>
+    <string name="settings_bot_speed">Tốc độ bot</string>
+    <string name="settings_deal_speed">Tốc độ chia bài</string>
+    <string name="settings_four_color">Bộ bài 4 màu</string>
+    <string name="settings_large_cards">Cỡ bài lớn</string>
+    <string name="settings_table_skin">Mặt bàn</string>
+    <string name="settings_card_back">Lưng bài</string>
+    <string name="settings_auto_sort">Tự xếp bài khi chia</string>
+
+    <string name="speed_slow">Chậm</string>
+    <string name="speed_normal">Thường</string>
+    <string name="speed_fast">Nhanh</string>
+
+    <!-- Tiến lên thuật ngữ -->
+
+    <!-- Bổ sung giai đoạn 2 -->
+    <string name="back">Quay lại</string>
+    <string name="coming_soon">Sắp ra mắt</string>
+    <string name="coming_soon_desc">Thể loại này đang được hoàn thiện và sẽ mở trong bản cập nhật tới. Hãy thử Tiến Lên Miền Nam nhé!</string>
+    <string name="received_coins">Bạn nhận được %1$s xu!</string>
+    <string name="relief">Cứu trợ</string>
+    <string name="daily_day">Ngày %1$d</string>
+    <string name="min_balance">Cần tối thiểu %1$s xu để vào bàn</string>
+    <string name="practice">Ván tập</string>
+    <string name="settings_sound">Âm thanh</string>
+    <string name="settings_gameplay">Chơi</string>
+    <string name="settings_display">Hiển thị</string>
+    <string name="skin_green">Xanh ngọc</string>
+    <string name="skin_red">Đỏ rượu</string>
+    <string name="skin_blue">Xanh dương</string>
+    <string name="back_red">Đỏ cổ điển</string>
+    <string name="back_blue">Xanh hoàng gia</string>
+    <string name="back_jade">Ngọc bích</string>
+
+    <!-- Chung -->
+    <string name="you">Bạn</string>
+</resources>

@@ -1,0 +1,87 @@
+<resources>
+    <string name="mb_game_name">Mậu Binh</string>
+    <string name="mb_action_suggest">Xếp gợi ý</string>
+    <string name="mb_action_done">Xếp xong</string>
+    <string name="mb_action_reset">Xếp lại</string>
+    <string name="mb_action_declare_instant_win">Báo Mậu binh</string>
+    <string name="mb_action_pass_instant_win">Không báo</string>
+    <string name="mb_phase_arranging">Xếp bài (%1$ds)</string>
+    <string name="mb_phase_comparing">So bài</string>
+    <string name="mb_valid_status_ok">Hợp lệ</string>
+    <string name="mb_valid_status_foul">Binh lủng!</string>
+    <string name="mb_chi_1">Chi 1 (Đầu - 5 lá)</string>
+    <string name="mb_chi_2">Chi 2 (Giữa - 5 lá)</string>
+    <string name="mb_chi_3">Chi 3 (Cuối - 3 lá)</string>
+    <string name="mb_unassigned">Bài chưa xếp (%1$d lá)</string>
+
+    <!-- Hand Combinations -->
+    <string name="mb_combo_straight_flush">Thùng phá sảnh</string>
+    <string name="mb_combo_four_of_a_kind">Tứ quý</string>
+    <string name="mb_combo_full_house">Cù lũ</string>
+    <string name="mb_combo_flush">Thùng</string>
+    <string name="mb_combo_straight">Sảnh</string>
+    <string name="mb_combo_three_of_a_kind">Sám cô</string>
+    <string name="mb_combo_two_pair">Thú</string>
+    <string name="mb_combo_one_pair">Đôi</string>
+    <string name="mb_combo_high_card">Mậu thầu</string>
+
+    <!-- Instant Wins -->
+    <string name="mb_win_dragon_roll">Rồng cuốn (24 chi)</string>
+    <string name="mb_win_dragon_straight">Sảnh rồng (12 chi)</string>
+    <string name="mb_win_five_pairs_triple">Năm đôi một sám (3 chi)</string>
+    <string name="mb_win_six_pairs">Lục phé bôn (3 chi)</string>
+    <string name="mb_win_three_flushes">Ba thùng (3 chi)</string>
+    <string name="mb_win_three_straights">Ba sảnh (3 chi)</string>
+
+    <!-- Bonuses & Events -->
+    <string name="mb_banner_sap_three_chi">Sập 3 chi! (×2)</string>
+    <string name="mb_banner_sap_lang">Sập làng! (×4)</string>
+    <string name="mb_banner_foul">Binh lủng (−6 chi)</string>
+    <string name="mb_banner_instant_win">Mậu binh tới trắng!</string>
+
+    <!-- Dialogs -->
+    <string name="mb_exit_confirm_title">Rời bàn chơi?</string>
+    <string name="mb_exit_confirm_msg">Rời bàn giữa ván sẽ bị xử binh lủng và trừ điểm tương ứng. Bạn có chắc muốn thoát?</string>
+    <string name="mb_exit_confirm_ok">Rời bàn</string>
+    <string name="mb_exit_confirm_cancel">Ở lại</string>
+    <string name="mb_result_win">Chiến thắng!</string>
+    <string name="mb_result_lose">Thua cuộc</string>
+    <string name="mb_result_play_again">Ván mới</string>
+    <string name="mb_result_review">Xem lại ván</string>
+    <string name="mb_result_close">Đóng</string>
+
+    <!-- Top Bar -->
+    <string name="mb_back">Thoát</string>
+    <string name="mb_help">Luật chơi</string>
+    <string name="mb_settings">Cài đặt</string>
+
+    <!-- Rules Screen -->
+    <string name="mb_rules_title">Luật chơi Mậu Binh</string>
+    <string name="mb_rules_sec_overview">Tổng quan &amp; 3 Chi</string>
+    <string name="mb_rules_sec_combos">Thứ bậc bài &amp; Binh lủng</string>
+    <string name="mb_rules_sec_scoring">So bài, Sập &amp; Chi thưởng</string>
+    <string name="mb_rules_sec_instant_win">Mậu binh tới trắng</string>
+
+    <!-- House Rules Screen -->
+    <string name="mb_hr_title">Luật nhà Mậu Binh</string>
+    <string name="mb_hr_a2345_title">Thứ hạng Sảnh A-2-3-4-5</string>
+    <string name="mb_hr_a2345_desc">Mặc định A-2-3-4-5 là sảnh lớn thứ nhì (sau 10-J-Q-K-A). Khi bật, chuyển thành sảnh nhỏ nhất.</string>
+    <string name="mb_hr_sap_lang_title">Sập làng nhân đôi</string>
+    <string name="mb_hr_sap_lang_desc">Người thắng sập cả 3 người còn lại được nhân đôi thêm tổng số chi thắng.</string>
+    <string name="mb_hr_sap_3chi_title">Sập 3 chi nhân đôi</string>
+    <string name="mb_hr_sap_3chi_desc">Thắng cả 3 chi đối với một người chơi thì tổng số chi với người đó nhân đôi (×2).</string>
+    <string name="mb_hr_foul_penalty_title">Phạt Binh lủng</string>
+    <string name="mb_hr_foul_penalty_desc">Người bị binh lủng đền mỗi người hợp lệ 6 chi (tương đương bị sập 3 chi).</string>
+    <string name="mb_hr_reset">Đặt lại mặc định</string>
+
+    <!-- Tutorial -->
+    <string name="mb_tut_title">Tập chơi Mậu Binh</string>
+    <string name="mb_tut_next">Tiếp tục</string>
+    <string name="mb_tut_finish">Hoàn thành bài tập</string>
+    <string name="mb_tut_step1_title">Bước 1: Làm quen 3 Chi</string>
+    <string name="mb_tut_step1_desc">Bài Mậu Binh gồm 13 lá chia thành 3 chi: Chi 1 (5 lá) ≥ Chi 2 (5 lá) ≥ Chi 3 (3 lá). Hãy bấm \"Xếp gợi ý\" để hệ thống xếp thử một cách tối ưu.</string>
+    <string name="mb_tut_step2_title">Bước 2: Kiểm tra Binh lủng</string>
+    <string name="mb_tut_step2_desc">Quan sát trạng thái: Chi 1 (Cù lũ) mạnh hơn Chi 2 (Thùng), Chi 2 mạnh hơn Chi 3 (Đôi). Trạng thái báo \"Hợp lệ\".</string>
+    <string name="mb_tut_step3_title">Bước 3: Hoàn thành xếp bài</string>
+    <string name="mb_tut_step3_desc">Bấm \"Xếp xong\" để nộp bài và bắt đầu vòng so bài từng chi với đối thủ.</string>
+</resources>

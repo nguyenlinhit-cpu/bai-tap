@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sl_title">Sâm Lốc</string>
+    <string name="sl_you">Bạn</string>
+    <string name="sl_bet_label">Cược %1$s</string>
+
+    <!-- Nút -->
+    <string name="sl_play">Đánh</string>
+    <string name="sl_pass">Bỏ lượt</string>
+    <string name="sl_hint">Gợi ý</string>
+    <string name="sl_sort">Xếp bài</string>
+    <string name="sl_new_game">Ván mới</string>
+    <string name="sl_change_table">Đổi bàn</string>
+    <string name="sl_review">Xem lại ván</string>
+    <string name="sl_close">Đóng</string>
+    <string name="sl_exit">Thoát</string>
+    <string name="sl_cancel">Ở lại</string>
+    <string name="sl_rules_short">Luật</string>
+    <string name="sl_call_sam">Báo Sâm</string>
+    <string name="sl_skip_sam">Bỏ qua</string>
+    <string name="sl_confirm_play">Đánh luôn</string>
+    <string name="sl_choose_again">Chọn lại</string>
+
+    <!-- Content Descriptions -->
+    <string name="sl_cd_exit">Thoát bàn</string>
+    <string name="sl_cd_rules">Luật nhanh</string>
+    <string name="sl_cd_sound">Bật/tắt âm thanh</string>
+
+    <!-- Trạng thái -->
+    <string name="sl_status_pass">Bỏ lượt</string>
+    <string name="sl_status_bao_1">Báo 1</string>
+    <string name="sl_status_bao_sam">Báo Sâm</string>
+    <string name="sl_status_cong">Cóng</string>
+    <string name="sl_status_win">Thắng</string>
+    <string name="sl_status_thinking">Đang nghĩ…</string>
+    <string name="sl_your_turn">Lượt của bạn</string>
+    <string name="sl_free_turn">Bạn được đi tự do</string>
+    <string name="sl_sam_phase_prompt">Bạn có muốn Báo Sâm không? (%1$ds)</string>
+    <string name="sl_someone_called_sam">%1$s đã Báo Sâm!</string>
+    <string name="sl_invalid_combo">Bộ bài không hợp lệ</string>
+    <string name="sl_cannot_beat">Không chặn được bài trên bàn (không so chất)</string>
+    <string name="sl_select_cards">Chọn lá để đánh</string>
+    <string name="sl_dealing">Đang chia bài…</string>
+    <string name="sl_timeout">Hết giờ — tự động %1$s</string>
+
+    <!-- Cảnh báo Báo 1 -->
+    <string name="sl_warn_bao_1_title">Cảnh báo Báo 1!</string>
+    <string name="sl_warn_bao_1_message">Ghế kế tiếp (%1$s) đang Báo 1 lá!\nBạn phải đánh lá rác lớn nhất có thể. Nếu đánh lá nhỏ hơn và người đó về ngay, bạn sẽ bị phạt ĐỀN CẢ LÀNG!</string>
+
+    <!-- Banner -->
+    <string name="sl_banner_cut">Chặt heo!</string>
+    <string name="sl_banner_cut_quad">Tứ quý chặt tứ quý!</string>
+    <string name="sl_banner_chain">Chặt chồng!</string>
+    <string name="sl_banner_instant">Ăn trắng!</string>
+    <string name="sl_banner_cong">Cóng!</string>
+    <string name="sl_banner_win">Về Nhất!</string>
+    <string name="sl_banner_sam_win">Ăn Sâm!</string>
+    <string name="sl_banner_sam_fail">Đền Sâm!</string>
+    <string name="sl_banner_finish_two">Thối 2 khi về!</string>
+    <string name="sl_banner_den_lang">Đền cả làng!</string>
+    <string name="sl_banner_lose">Thua rồi</string>
+
+    <!-- Kết quả -->
+    <string name="sl_result_title">Kết quả ván</string>
+    <string name="sl_result_capped">Một số khoản đã được giới hạn theo số xu đang có.</string>
+    <string name="sl_result_broke">Bạn không đủ xu cho mức cược này. Hãy đổi bàn hoặc nhận cứu trợ ở sảnh.</string>
+    <string name="sl_bot_replaced">%1$s hết xu, %2$s vào thay.</string>
+    <string name="sl_log_title">Diễn biến ván</string>
+    <string name="sl_rank_first">Nhất</string>
+    <string name="sl_rank_last">Thua</string>
+
+    <!-- Thoát -->
+    <string name="sl_exit_title">Thoát bàn?</string>
+    <string name="sl_exit_message">Thoát giữa ván sẽ bị xử thua như người về cuối:\ntrả %1$s xu cho người còn ít bài nhất.</string>
+
+    <!-- Hướng dẫn nhanh -->
+    <string name="sl_guide_title">Hướng dẫn nhanh Sâm Lốc</string>
+    <string name="sl_guide_skip">Bỏ qua</string>
+    <string name="sl_guide_next">Tiếp</string>
+    <string name="sl_guide_done">Vào chơi</string>
+    <string name="sl_guide_1_title">10 lá, không so chất</string>
+    <string name="sl_guide_1_body">Mỗi người nhận 10 lá bài. Thứ tự bài: 3 &lt; 4 … &lt; A &lt; 2. Đặc biệt: Sâm Lốc KHÔNG so chất, hai bộ bằng nhau không thể chặn nhau!</string>
+    <string name="sl_guide_2_title">Sảnh đặc biệt: A-2-3 và 2-3-4</string>
+    <string name="sl_guide_2_body">Sảnh từ 3 lá trở lên. Cho phép A đứng đầu (A-2-3) hoặc cuối (Q-K-A); 2 đứng đầu (2-3-4). Không vòng qua (K-A-2 sai). Không có đôi thông!</string>
+    <string name="sl_guide_3_title">Báo Sâm</string>
+    <string name="sl_guide_3_body">Đầu ván, nếu bài cực mạnh, bạn có thể Báo Sâm. Nếu đánh hết 10 lá không ai chặn được: Ăn Sâm (thắng đậm)! Nếu bị chặn dù chỉ 1 nước: Đền Sâm cho cả bàn.</string>
+    <string name="sl_guide_4_title">Báo 1 và giữ cửa</string>
+    <string name="sl_guide_4_body">Người còn 1 lá tự động Báo 1. Người ngồi ngay trước khi đánh rác BẮT BUỘC phải đánh lá lớn nhất. Nếu đánh lá nhỏ để họ về: bạn phải Đền Làng!</string>
+    <string name="sl_guide_5_title">Cấm về bằng heo</string>
+    <string name="sl_guide_5_body">Nước đánh cuối cùng hết bài KHÔNG được chứa lá 2. Nếu về bằng heo sẽ bị xử thối 2 và đền tiền cho mỗi người chơi!</string>
+
+    <!-- Luật chơi -->
+    <string name="sl_rules_title">Luật chơi Sâm Lốc</string>
+    <string name="sl_rules_toc">Mục lục</string>
+    <string name="sl_rules_current">Đang áp dụng: Sâm Lốc chuẩn · 1 lá = %1$s xu</string>
+    <string name="sl_rules_intro_h">Giới thiệu</string>
+    <string name="sl_rules_intro">Sâm Lốc là trò chơi dân gian rất phổ biến ở miền Bắc, có nét tương đồng với Tiến lên nhưng nhịp độ nhanh hơn, mang tính sát phạt cao nhờ cơ chế Báo Sâm và luật không so chất.</string>
+    <string name="sl_rules_deck_h">Bộ bài và chia bài</string>
+    <string name="sl_rules_deck">Dùng bộ bài Tây 52 lá tiêu chuẩn. Mỗi người chơi nhận đúng 10 lá bài (hỗ trợ bàn từ 2 đến 4 người). Các lá dư úp bỏ giữa bàn, không dùng đến. Chiều đánh ngược chiều kim đồng hồ.</string>
+    <string name="sl_rules_order_h">Thứ tự lá bài và nguyên tắc không so chất</string>
+    <string name="sl_rules_order">Thứ tự độ lớn của các lá bài: 3 &lt; 4 &lt; 5 &lt; 6 &lt; 7 &lt; 8 &lt; 9 &lt; 10 &lt; J &lt; Q &lt; K &lt; A &lt; 2. Lá 2 (heo) có giá trị cao nhất khi đánh rác. ĐẶC BIỆT: Sâm Lốc hoàn toàn không so chất. Hai bộ bài có cùng giá trị số thì không thể chặn nhau (ví dụ: đôi 8 không thể chặn đôi 8).</string>
+    <string name="sl_rules_combos_h">Các tổ hợp bài hợp lệ</string>
+    <string name="sl_rules_single">Rác: 1 lá bài lẻ.</string>
+    <string name="sl_rules_pair">Đôi: 2 lá bài cùng số (không xét chất).</string>
+    <string name="sl_rules_triple">Sám (bộ ba): 3 lá bài cùng số.</string>
+    <string name="sl_rules_quad">Tứ quý: 4 lá bài cùng số.</string>
+    <string name="sl_rules_straight">Sảnh: Dãy từ 3 lá liên tiếp trở lên, không cần cùng chất. Trong sảnh, A có thể đứng đầu (A-2-3) hoặc đứng cuối (Q-K-A); 2 có thể đứng đầu (2-3-4…). Không được vòng qua (K-A-2 không hợp lệ). Thứ tự sảnh cùng độ dài: A-2-3 &lt; 2-3-4 &lt; 3-4-5 &lt; … &lt; Q-K-A. Chú ý: Sâm Lốc KHÔNG có đôi thông.</string>
+    <string name="sl_rules_cut_h">Quy tắc Chặt và Chặt chồng</string>
+    <string name="sl_rules_cut">Tứ quý chặt được 1 heo (heo bất kỳ). Tứ quý lớn chặt được tứ quý nhỏ hơn. Mỗi lần chặt heo hoặc chặt tứ quý tính phạt %1$d lá. Trường hợp chặt chồng: người bị chặt cuối cùng gánh toàn bộ tổng tiền của các lần chặt trước đó trong chuỗi.</string>
+    <string name="sl_rules_sam_h">Pha Báo Sâm</string>
+    <string name="sl_rules_sam">Ngay sau khi chia bài, có pha Báo Sâm: lần lượt mỗi người có 8 giây chọn Báo Sâm hoặc Bỏ qua. Chỉ người bấm báo đầu tiên được công nhận.\n\nNgười Báo Sâm có quyền đi trước và đánh liên tục. Sau mỗi nước đánh, những người khác lần lượt có quyền chặn. Nếu bất kỳ ai chặn được dù chỉ 1 nước: Sâm thất bại (Đền Sâm), người báo trả mỗi người %1$d lá và ván dừng ngay. Nếu đánh hết 10 lá mà không ai chặn được: Ăn Sâm, mỗi người trả người báo %2$d lá.</string>
+    <string name="sl_rules_bao_1_h">Luật Báo 1 và Đền Làng</string>
+    <string name="sl_rules_bao_1">Người chơi khi chỉ còn đúng 1 lá trên tay sẽ tự động Báo 1. Người ngồi ngay trước người Báo 1 khi đánh rác (đi tự do hoặc chặn lẻ) BẮT BUỘC phải đánh lá rác lớn nhất đang có trong tay.\n\nNếu người ngồi trước đánh lá nhỏ hơn lá lớn nhất có thể và để người Báo 1 về ngay trên nước đó, người này phạm luật và phải ĐỀN CẢ LÀNG: trả toàn bộ số tiền mà các người thua khác lẽ ra phải trả!</string>
+    <string name="sl_rules_finish_two_h">Cấm về bằng heo (Thối 2)</string>
+    <string name="sl_rules_finish_two">Nước đánh cuối cùng làm hết bài trên tay tuyệt đối không được chứa lá 2 (dù là đánh lẻ 2 hay bộ có 2). Người vi phạm bị tính là Thối 2: không được tính thắng ván, phải nộp phạt %1$d lá cho mỗi người chơi khác và ván dừng ngay lập tức.</string>
+    <string name="sl_rules_instant_h">Ăn trắng (Tới trắng)</string>
+    <string name="sl_rules_instant">Nếu ngay khi chia bài sở hữu một trong các bộ sau, người chơi thắng ngay lập tức và ăn mỗi người %1$d lá (thứ tự ưu tiên từ cao xuống thấp):\n1. Tứ quý heo (bốn lá 2)\n2. Sảnh rồng (10 lá liên tiếp từ A..10, 2..J, 3..Q, 4..K, 5..A)\n3. 5 đôi bất kỳ\n4. 10 lá đồng màu (cùng màu đỏ hoặc cùng màu đen)\n5. 3 sám (Luật nhà, mặc định tắt)</string>
+    <string name="sl_rules_payout_h">Bảng tính tiền chi tiết (1 lá = 1B)</string>
+    <string name="sl_rules_payout_body">• Về Nhất: ăn của mỗi người số lá bài còn lại trên tay × cược B.\n• Thối heo: phạt %1$d lá/con.\n• Thối tứ quý: phạt %2$d lá.\n• Cóng (chưa đánh được lá nào): phạt %3$d lá + tiền thối heo/tứ quý.\n• Tứ quý chặt heo: phạt %4$d lá.\n• Ăn Sâm: mỗi người trả %5$d lá.\n• Đền Sâm: người báo trả mỗi người %6$d lá.\n• Ăn trắng: mỗi người trả %7$d lá.\n• Về bằng heo: người về trả mỗi người %8$d lá.\n• Đền Báo 1: người phạm luật gánh toàn bộ tiền thua của cả làng.</string>
+
+    <!-- Luật nhà -->
+    <string name="sl_house_title">Luật nhà Sâm Lốc</string>
+    <string name="sl_house_reset">Mặc định</string>
+    <string name="sl_house_section_rules">Biến thể luật</string>
+    <string name="sl_house_quad_cuts_pair_twos">Tứ quý chặt đôi heo</string>
+    <string name="sl_house_quad_cuts_pair_twos_desc">Cho phép 1 tứ quý chặt được 1 đôi heo trên bàn (mặc định tắt).</string>
+    <string name="sl_house_three_triples">3 sám ăn trắng</string>
+    <string name="sl_house_three_triples_desc">Bài có 3 bộ ba (sám) được tính ăn trắng ngay khi chia (mặc định tắt).</string>
+    <string name="sl_house_diff_twos">Phân biệt heo đen / heo đỏ</string>
+    <string name="sl_house_diff_twos_desc">Heo đen phạt 10 lá, heo đỏ phạt 15 lá (mặc định tắt: mọi heo phạt 15 lá).</string>
+    <string name="sl_house_section_penalties">Mức phạt (số lá)</string>
+    <string name="sl_house_sam_payout">Tiền Ăn Sâm / Đền Sâm</string>
+    <string name="sl_house_instant_payout">Tiền Ăn trắng</string>
+    <string name="sl_house_finish_two_payout">Phạt về bằng heo</string>
+
+    <!-- Ván tập Sâm Lốc -->
+    <string name="sl_tut_title">Ván tập Sâm Lốc</string>
+    <string name="sl_tut_step_format">Bước %1$d/%2$d: %3$s</string>
+    <string name="sl_tut_finished">Hoàn thành ván tập!</string>
+    <string name="sl_tut_finished_desc">Bạn đã nắm vững luật Báo Sâm và luật Báo 1 trong Sâm Lốc.</string>
+    <string name="sl_tut_exit">Vào bàn chơi</string>
+    <string name="sl_tut_replay">Tập lại</string>
+</resources>

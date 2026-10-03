@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tl_title">Tiến Lên Miền Nam</string>
+    <string name="tl_you">Bạn</string>
+    <string name="tl_bet_label">Cược %1$s</string>
+    <string name="tl_mode_count">Đếm lá</string>
+    <string name="tl_mode_ranking">Xếp hạng</string>
+
+    <!-- Nút -->
+    <string name="tl_play">Đánh</string>
+    <string name="tl_pass">Bỏ lượt</string>
+    <string name="tl_hint">Gợi ý</string>
+    <string name="tl_sort">Xếp bài</string>
+    <string name="tl_new_game">Ván mới</string>
+    <string name="tl_change_table">Đổi bàn</string>
+    <string name="tl_review">Xem lại ván</string>
+    <string name="tl_close">Đóng</string>
+    <string name="tl_exit">Thoát</string>
+    <string name="tl_cancel">Ở lại</string>
+    <string name="tl_rules_short">Luật</string>
+    <string name="tl_cd_exit">Thoát bàn</string>
+    <string name="tl_cd_rules">Luật nhanh</string>
+    <string name="tl_cd_sound">Bật/tắt âm thanh</string>
+
+    <!-- Trạng thái -->
+    <string name="tl_status_pass">Bỏ lượt</string>
+    <string name="tl_status_last_card">Còn 1 lá</string>
+    <string name="tl_status_cong">Cóng</string>
+    <string name="tl_status_rank">Về %1$s</string>
+    <string name="tl_status_thinking">Đang nghĩ…</string>
+    <string name="tl_your_turn">Lượt của bạn</string>
+    <string name="tl_free_turn">Bạn được đi tự do</string>
+    <string name="tl_must_include">Nước đầu phải có %1$s</string>
+    <string name="tl_invalid_combo">Bộ bài không hợp lệ</string>
+    <string name="tl_cannot_beat">Không chặn được bài trên bàn</string>
+    <string name="tl_select_cards">Chọn lá để đánh</string>
+    <string name="tl_dealing">Đang chia bài…</string>
+    <string name="tl_timeout">Hết giờ — tự động %1$s</string>
+
+    <!-- Banner -->
+    <string name="tl_banner_cut">Chặt!</string>
+    <string name="tl_banner_cut_two">Chặt heo!</string>
+    <string name="tl_banner_chain">Chặt chồng!</string>
+    <string name="tl_banner_instant">Tới trắng!</string>
+    <string name="tl_banner_cong">Cóng!</string>
+    <string name="tl_banner_win">Về Nhất!</string>
+    <string name="tl_banner_lose">Thua rồi</string>
+
+    <!-- Kết quả -->
+    <string name="tl_result_title">Kết quả ván</string>
+    <string name="tl_result_capped">Một số khoản đã được giới hạn theo số xu đang có.</string>
+    <string name="tl_result_broke">Bạn không đủ xu cho mức cược này. Hãy đổi bàn hoặc nhận cứu trợ ở sảnh.</string>
+    <string name="tl_bot_replaced">%1$s hết xu, %2$s vào thay.</string>
+    <string name="tl_log_title">Diễn biến ván</string>
+    <string name="tl_rank_first">Nhất</string>
+    <string name="tl_rank_second">Nhì</string>
+    <string name="tl_rank_third">Ba</string>
+    <string name="tl_rank_last">Bét</string>
+
+    <!-- Thoát -->
+    <string name="tl_exit_title">Thoát bàn?</string>
+    <string name="tl_exit_message">Thoát giữa ván sẽ bị xử thua như người về cuối:\ntrả %1$s xu cho người còn ít bài nhất.</string>
+
+    <!-- Hướng dẫn nhanh -->
+    <string name="tl_guide_title">Hướng dẫn nhanh</string>
+    <string name="tl_guide_skip">Bỏ qua</string>
+    <string name="tl_guide_next">Tiếp</string>
+    <string name="tl_guide_done">Vào chơi</string>
+    <string name="tl_guide_1_title">Đánh hết bài trước</string>
+    <string name="tl_guide_1_body">Mỗi người 13 lá. Ai đánh hết bài trước là người về Nhất và ăn tiền của những người còn lại.</string>
+    <string name="tl_guide_2_title">2 là lớn nhất</string>
+    <string name="tl_guide_2_body">Thứ tự: 3 nhỏ nhất, rồi 4, 5 … K, A và 2 (heo) lớn nhất. Cùng số thì so chất: ♠ &lt; ♣ &lt; ♦ &lt; ♥.</string>
+    <string name="tl_guide_3_title">Chặn bằng bộ cùng loại</string>
+    <string name="tl_guide_3_body">Người sau phải đánh cùng loại, cùng số lá và lớn hơn: rác chặn rác, đôi chặn đôi, sảnh chặn sảnh cùng độ dài.</string>
+    <string name="tl_guide_4_title">Chặt heo bằng hàng</string>
+    <string name="tl_guide_4_body">3 đôi thông, tứ quý, 4 đôi thông được chặt heo và chặt nhau. Bị chặt là phải trả tiền ngay!</string>
+    <string name="tl_guide_5_title">Thao tác</string>
+    <string name="tl_guide_5_body">Chạm lá để nhấc, kéo ngang để chọn nhiều lá, vuốt lên hoặc bấm Đánh để ra bài. Không chặn được thì bấm Bỏ lượt.</string>
+
+    <!-- Luật chơi -->
+    <string name="tl_rules_title">Luật chơi Tiến Lên</string>
+    <string name="tl_rules_toc">Mục lục</string>
+    <string name="tl_rules_current">Đang áp dụng: %1$s · %2$s</string>
+    <string name="tl_rules_intro_h">Giới thiệu</string>
+    <string name="tl_rules_intro">Tiến lên miền Nam là game bài phổ biến nhất ở Việt Nam, đặc biệt ở miền Nam. Mục tiêu rất đơn giản: tìm cách đánh hết 13 lá trên tay trước người khác. Chơi từ 2 đến 4 người.</string>
+    <string name="tl_rules_deck_h">Bộ bài và cách chia</string>
+    <string name="tl_rules_deck">Dùng bộ 52 lá. Mỗi người nhận 13 lá kể cả khi chơi 2–3 người (phần dư úp bỏ, không ai dùng). Lượt đi ngược chiều kim đồng hồ: Bạn → phải → trên → trái.</string>
+    <string name="tl_rules_order_h">Thứ tự lá và chất</string>
+    <string name="tl_rules_order">Lá nhỏ nhất là 3, lớn dần tới K, A và lớn nhất là 2 (gọi là heo). Khi hai lá cùng số thì so chất: Bích ♠ &lt; Chuồn ♣ &lt; Rô ♦ &lt; Cơ ♥.</string>
+    <string name="tl_rules_combos_h">Các bộ bài</string>
+    <string name="tl_rules_single">Rác: 1 lá lẻ.</string>
+    <string name="tl_rules_pair">Đôi: 2 lá cùng số.</string>
+    <string name="tl_rules_triple">Sám (bộ ba): 3 lá cùng số.</string>
+    <string name="tl_rules_straight">Sảnh: từ 3 lá liên tiếp trở lên, không cần cùng chất, không được chứa 2. A chỉ đứng cuối (Q-K-A được, K-A-2 không).</string>
+    <string name="tl_rules_pairseq">Đôi thông: từ 3 đôi liên tiếp trở lên, không chứa 2.</string>
+    <string name="tl_rules_quad">Tứ quý: 4 lá cùng số.</string>
+    <string name="tl_rules_flow_h">Diễn biến một ván</string>
+    <string name="tl_rules_flow">1. Ván đầu: người giữ 3♠ đi trước%1$s. Các ván sau: người về Nhất ván trước đi trước, đánh tự do.\n2. Người kế tiếp phải đánh cùng loại, cùng số lá và lớn hơn (so theo lá lớn nhất của bộ), hoặc bỏ lượt.\n3. Đã bỏ lượt thì không được đánh lại trong vòng đó.\n4. Khi mọi người khác đều bỏ, người đánh cuối được đi tự do vòng mới. Nếu người đó đã hết bài, quyền đi tự do chuyển cho người kế tiếp còn bài.\n5. %2$s</string>
+    <string name="tl_rules_flow_must">, nước đầu phải có lá 3♠ (nếu không ai có 3♠ thì người giữ lá nhỏ nhất đi và phải đánh lá đó)</string>
+    <string name="tl_rules_flow_end_count">Ván kết thúc ngay khi có người đầu tiên hết bài.</string>
+    <string name="tl_rules_flow_end_rank">Chơi tiếp đến khi chỉ còn 1 người, xếp hạng Nhất – Nhì – Ba – Bét.</string>
+    <string name="tl_rules_cut_h">Chặt heo và hàng</string>
+    <string name="tl_rules_cut">3 đôi thông chặt được 1 heo hoặc 3 đôi thông nhỏ hơn.\nTứ quý chặt được 1 heo%1$s, 3 đôi thông, tứ quý nhỏ hơn.\n4 đôi thông chặt được 1 heo, đôi heo, 3 đôi thông, tứ quý, 4 đôi thông nhỏ hơn%2$s.\nSám heo (ba lá 2) không gì chặt được.\nChặt chồng: hàng vừa chặt có thể bị hàng lớn hơn chặt lại; người bị chặt cuối cùng gánh toàn bộ tiền các lần chặt trước, trả cho người chặt cuối cùng.</string>
+    <string name="tl_rules_cut_quad_pair">, đôi heo</string>
+    <string name="tl_rules_cut_noturn">, kể cả khi đã bỏ lượt trong vòng</string>
+    <string name="tl_rules_instant_h">Tới trắng</string>
+    <string name="tl_rules_instant">Kiểm tra ngay sau khi chia; ai có thì thắng luôn, ván kết thúc. Ưu tiên từ trên xuống:\n1. Sảnh rồng: 12 lá từ 3 đến A.\n2. Tứ quý heo.\n%1$s%2$s%3$sNhiều người cùng tới trắng: xét theo thứ tự trên, cùng loại thì so lá lớn nhất.</string>
+    <string name="tl_rules_instant_fivepairs">• 5 đôi thông.\n</string>
+    <string name="tl_rules_instant_sixpairs">• 6 đôi bất kỳ (tứ quý tính 2 đôi).\n• %1$d lá đồng màu (cùng đỏ hoặc cùng đen).\n</string>
+    <string name="tl_rules_instant_fourthrees">• Tứ quý 3 (chỉ ván đầu tiên).\n</string>
+    <string name="tl_rules_money_h">Bảng tính tiền</string>
+    <string name="tl_rules_money_count">Chế độ Đếm lá — 1 lá = 1B (B = mức cược bàn). Người về Nhất ăn của mỗi người còn lại:</string>
+    <string name="tl_rules_money_rank">Chế độ Xếp hạng — trả tiền theo hạng, cộng thêm thối và chặt:</string>
+    <string name="tl_money_left">Mỗi lá còn trên tay</string>
+    <string name="tl_money_black_two">Thối/bị chặt heo đen</string>
+    <string name="tl_money_red_two">Thối/bị chặt heo đỏ</string>
+    <string name="tl_money_three_pairs">Thối/bị chặt 3 đôi thông</string>
+    <string name="tl_money_quad">Thối/bị chặt tứ quý</string>
+    <string name="tl_money_four_pairs">Thối/bị chặt 4 đôi thông</string>
+    <string name="tl_money_cong">Cóng (chưa đánh được lá nào)</string>
+    <string name="tl_money_instant">Thua tới trắng</string>
+    <string name="tl_money_rank_4">4 người: Nhất +%1$s, Nhì +%2$s, Ba %3$s, Bét %4$s</string>
+    <string name="tl_money_rank_3">3 người: Nhất +%1$s, Nhì %2$s, Bét %3$s</string>
+    <string name="tl_money_rank_2">2 người: thắng +%1$s, thua %2$s</string>
+    <string name="tl_money_cards">%1$d lá</string>
+    <string name="tl_money_note">Thối = heo/hàng còn kẹt trên tay khi ván kết thúc, tính thay cho các lá tạo thành nó. Không ai mất quá số xu đang có.</string>
+    <string name="tl_money_instant_pen">+ thối heo/hàng</string>
+    <string name="tl_rules_exit_h">Thoát giữa ván</string>
+    <string name="tl_rules_exit">Thoát khi ván chưa xong bị xử thua như người về cuối: trả tiền lá còn lại (hoặc tiền cóng nếu chưa đánh lá nào) cộng thối, cho người còn ít bài nhất.</string>
+    <string name="tl_rules_terms_h">Thuật ngữ</string>
+    <string name="tl_rules_terms">Heo: lá 2.\nRác: lá lẻ.\nSám: bộ ba cùng số.\nHàng: 3 đôi thông, tứ quý, 4 đôi thông.\nChặt: dùng hàng đánh lên heo hoặc hàng khác.\nThối: còn heo/hàng trên tay khi thua.\nCóng: chưa đánh được lá nào khi có người về.\nĐi tự do: được ra bài bất kỳ khi mọi người bỏ lượt.\nTới trắng: thắng ngay sau khi chia nhờ bài đặc biệt.</string>
+    <string name="tl_rules_tips_h">Mẹo cho người mới</string>
+    <string name="tl_rules_tips">• Xếp bài thành ít bộ nhất có thể; đừng tách sảnh dài chỉ để chặn một lá rác.\n• Khi đi tự do, xả rác nhỏ và sảnh dài trước.\n• Giữ heo và hàng để giành quyền đi hoặc chặt kiếm tiền.\n• Đối thủ còn 1–2 lá: đánh bộ đôi/sảnh hoặc lá lớn để chặn chắc.\n• Đừng để heo/hàng kẹt trên tay cuối ván — bị thối rất đau.</string>
+
+    <!-- Luật nhà -->
+    <string name="tl_house_title">Luật nhà – Tiến Lên</string>
+    <string name="tl_house_reset">Khôi phục mặc định</string>
+    <string name="tl_house_saved">Đã lưu</string>
+    <string name="tl_house_scoring">Cách tính tiền</string>
+    <string name="tl_house_scoring_desc">Đếm lá: ván dừng khi có người về Nhất. Xếp hạng: chơi đến người cuối.</string>
+    <string name="tl_house_3s">Bắt buộc có 3♠ ở nước đầu</string>
+    <string name="tl_house_4pairs">4 đôi thông chặt không cần vòng</string>
+    <string name="tl_house_quad_pair">Tứ quý chặt đôi heo</string>
+    <string name="tl_house_4threes">Tứ quý 3 tới trắng (ván đầu)</string>
+    <string name="tl_house_5pairs">5 đôi thông tới trắng</string>
+    <string name="tl_house_samecolor">Số lá đồng màu để tới trắng</string>
+    <string name="tl_house_instant_pen">Tới trắng tính thêm thối</string>
+    <string name="tl_house_no_two_finish">Cấm về bằng heo</string>
+    <string name="tl_house_money">Tiền thối/chặt (lá)</string>
+    <string name="tl_house_turn">Thời gian mỗi lượt (giây)</string>
+    <string name="tl_house_section_rules">Luật chơi</string>
+    <string name="tl_house_section_money">Tính tiền</string>
+
+    <!-- Ván tập -->
+    <string name="tl_tut_title">Ván tập – Tiến Lên</string>
+    <string name="tl_tut_intro">Ván tập dùng bài sắp sẵn. Làm theo chỉ dẫn, chỉ thao tác đúng mới được chấp nhận.</string>
+    <string name="tl_tut_step1">Bạn giữ 3♠ nên được đi trước. Nước đầu phải có 3♠. Chạm lá 3♠ rồi bấm Đánh (đánh rác).</string>
+    <string name="tl_tut_step2">Máy đánh heo 2♥! Bạn có 3 đôi thông 66-77-88 — chọn cả 6 lá rồi bấm Đánh để chặt heo.</string>
+    <string name="tl_tut_step3">Chặt heo thành công: máy phải trả bạn tiền heo đỏ. Máy không chặn được nên bạn được đi tự do. Đánh đôi 4♠4♦.</string>
+    <string name="tl_tut_step4">Máy chặn bằng đôi 10. Chặn lại bằng đôi J (J♦J♥) — đôi chặn đôi, lớn hơn là được.</string>
+    <string name="tl_tut_step5">Máy ra đôi K, bạn không còn đôi nào lớn hơn. Bấm Bỏ lượt.</string>
+    <string name="tl_tut_step6">Mọi người đã bỏ nên máy được đi tự do và đánh rác 5♥. Chặn bằng Q♠.</string>
+    <string name="tl_tut_step7">Máy bỏ lượt, bạn đi tự do. Đánh lá cuối cùng A♣ để về Nhất!</string>
+    <string name="tl_tut_bot_name">Máy</string>
+    <string name="tl_tut_bot_wait">Máy đang đánh…</string>
+    <string name="tl_tut_done_title">Hoàn thành ván tập!</string>
+    <string name="tl_tut_done_body">Bạn đã biết đánh rác, chặn đôi, chặt heo bằng 3 đôi thông, bỏ lượt và đi tự do. Vào bàn thật thôi!</string>
+    <string name="tl_tut_wrong">Chưa đúng — làm theo chỉ dẫn nhé.</string>
+    <string name="tl_tut_restart">Tập lại</string>
+    <string name="tl_tut_finish">Xong</string>
+    <string-array name="tl_bot_names">
+        <item>Anh Tư</item>
+        <item>Chị Ba</item>
+        <item>Bác Năm</item>
+        <item>Út Mười</item>
+        <item>Cô Sáu</item>
+        <item>Chú Bảy</item>
+        <item>Bé Na</item>
+        <item>Anh Hai</item>
+        <item>Cậu Tám</item>
+        <item>Dì Chín</item>
+    </string-array>
+</resources>

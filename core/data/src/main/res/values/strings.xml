@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bot_names">
+        <item>Anh Tư</item>
+        <item>Chị Ba</item>
+        <item>Bác Năm</item>
+        <item>Út Mười</item>
+        <item>Cô Sáu</item>
+        <item>Chú Bảy</item>
+        <item>Bé Na</item>
+        <item>Anh Hai</item>
+        <item>Cậu Tám</item>
+        <item>Dì Chín</item>
+    </string-array>
+    <string name="you">Bạn</string>
+</resources>

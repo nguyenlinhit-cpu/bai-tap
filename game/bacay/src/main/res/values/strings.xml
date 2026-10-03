@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bacay_name">Ba Cây (Cào)</string>
+    <string name="bacay_desc">Bài cào 3 lá dân gian — 9 nút, Ba tiên, nặn bài hồi hộp, có cái hoặc ăn tất</string>
+
+    <!-- Roles & Modes -->
+    <string name="bacay_mode_with_dealer">Chơi có cái</string>
+    <string name="bacay_mode_winner_takes_all">Ăn tất (nhất ăn tất)</string>
+    <string name="bacay_role_dealer">Nhà cái</string>
+    <string name="bacay_role_player">Nhà con</string>
+
+    <!-- Actions -->
+    <string name="bacay_action_squeeze">Nặn bài</string>
+    <string name="bacay_action_reveal">Lật bài</string>
+    <string name="bacay_action_next">Ván tiếp theo</string>
+
+    <!-- Hand types & Scoring -->
+    <string name="bacay_type_sap">Sáp (3 lá cùng số)</string>
+    <string name="bacay_type_bating">Ba tiên (3 lá J, Q, K)</string>
+    <string name="bacay_type_points">%1$d nút</string>
+    <string name="bacay_type_bu">Bù (0 nút)</string>
+
+    <!-- House Rules -->
+    <string name="bacay_hr_sap_beats_batien_title">Sáp đứng trên Ba tiên</string>
+    <string name="bacay_hr_sap_beats_batien_desc">Nếu bật: Sáp (3 lá cùng số) sẽ lớn hơn Ba tiên</string>
+    <string name="bacay_hr_batien_double_title">Ba tiên ăn ×2</string>
+    <string name="bacay_hr_batien_double_desc">Nếu bật: Thắng bằng Ba tiên nhận gấp đôi tiền cược</string>
+    <string name="bacay_hr_tie_push_title">Bằng điểm thì hòa</string>
+    <string name="bacay_hr_tie_push_desc">Nếu tắt: Bằng điểm so lá mạnh nhất (Rô > Cơ > Chuồn > Bích)</string>
+</resources>
